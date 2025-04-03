@@ -1,4 +1,8 @@
 h1 {
     background-color: blue;
     text-align: center;
+    font-size: 50px;
+}
+img {
+    margin-left: 20%;
 }
